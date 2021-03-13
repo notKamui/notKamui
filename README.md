@@ -3,4 +3,4 @@
 <p>Discord : notKamui#5252</p>
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=notKamui&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notKamui&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notKamui&layout=compact&theme=tokyonight&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
