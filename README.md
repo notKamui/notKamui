@@ -6,3 +6,4 @@
 - Discord : notKamui#5252
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=notKamui&count_private=true&show_icons=true&theme=tokyonight)
+[![Discord Presence](https://lanyard.cnrad.dev/api/339763440677814272)](https://discord.com/users/339763440677814272)
