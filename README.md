@@ -5,7 +5,7 @@
 - Organization/Team : [Black Kamelia](https://black-kamelia.com)
 - Discord : `notkamui.`
 
-Checkout my team's work:
+Check out my team's work:
 - [Hedera](https://github.com/Black-Kamelia/Hedera) (file self-hosting application and screenshot uploader target);
 - [Sprinkler](https://github.com/Black-Kamelia/Sprinkler) (Kotlin utilities for a better DX).
   
