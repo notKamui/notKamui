@@ -10,3 +10,6 @@ Check out my team's work:
 - [Sprinkler](https://github.com/Black-Kamelia/Sprinkler) (Kotlin utilities for a better DX).
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=notKamui&count_private=true&show_icons=true&theme=tokyonight)
+
+If you like my work, consider donatingo on my [Ko-fi page](https://ko-fi.com/notkamui) 
+<img src="https://ko-fi.com/favicon.ico" alt="Ko-fi icon" width="16"/>
