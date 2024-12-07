@@ -11,5 +11,5 @@ Check out my team's work:
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=notKamui&count_private=true&show_icons=true&theme=tokyonight)
 
-If you like my work, consider donatingo on my [Ko-fi page](https://ko-fi.com/notkamui) 
+If you like my work, consider donating on my [Ko-fi page](https://ko-fi.com/notkamui) 
 <img src="https://ko-fi.com/favicon.ico" alt="Ko-fi icon" width="16"/>
